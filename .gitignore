@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+claude's agent.py
+desktop.ini
+filewatcher.py
+
+# Venv
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Telemetry data
+*.json
+nordschleife_sectors.json
+sector_notes.json
+
