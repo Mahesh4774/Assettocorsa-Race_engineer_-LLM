@@ -18,4 +18,6 @@ venv/
 *.json
 nordschleife_sectors.json
 sector_notes.json
+*.csv
+
 
