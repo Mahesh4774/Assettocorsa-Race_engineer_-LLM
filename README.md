@@ -67,7 +67,6 @@ python race_eng_agent.py
 
 - **Distance-based comparison, not time-based.** Both laps are interpolated onto the same distance grid, so sectors line up even when the laps run at different speeds.
 - **Check against the official lap time.** The script prints the calculated delta next to the official lap time difference to catch data problems.
-- **Sector boundaries live in JSON.** They're not hardcoded, so the same approach can be reused for other tracks.
 - **The LLM is constrained.** Temperature is set to 0, it must write exactly one line per sector, and it must phrase causes as possibilities ("likely", "check whether") and not as facts.
 
 ## Current limitations
