@@ -56,7 +56,6 @@ python race_eng_agent.py
 
 ## Example output
 
-> Add a screenshot of the sector table and a copy of the coach's report here.
 
 
 <img width="1783" height="749" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/d524057b-754d-4578-b067-e23c73302239" />
